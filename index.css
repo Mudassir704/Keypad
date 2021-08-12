@@ -1,0 +1,27 @@
+#phone button {
+  height: 50px;
+  width: 75px;
+  background-color: bisque;
+}
+#phone button span {
+  display: block;
+  margin-top: 5px;
+  font-size: 10px;
+  background-color: antiquewhite;
+}
+#result {
+  width: 225px;
+  height: 50px;
+  margin: 2px;
+  border-radius: 10px;
+  background-color: aquamarine;
+}
+#title {
+  padding-left: 70px;
+  width: 400px;
+  color: brown;
+}
+#phone {
+  width: 200px;
+  margin-top: 100px;
+}
